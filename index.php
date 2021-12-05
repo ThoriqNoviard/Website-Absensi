@@ -31,7 +31,7 @@
         </div>
         <div class="col-auto mx-4">
             <i class="bi bi-envelope-fill"></i>
-            Ekantinunj@unj.ac.id
+            absensiMhs@unj.ac.id
         </div>
         <div class="col-6"></div>
       </div>
@@ -40,7 +40,7 @@
     <!-- Navigation -->
     <nav class="navbar fixed-top navbar-expand-lg navbar-light  navbar-custom sticky-top bgcolor ">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">E-KANTIN UNJ</a>
+        <a class="navbar-brand" href="#">Absensi Mahasiswa Fakultas Teknik </a>
         
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-awesome fas fa-bars"></span>
@@ -119,7 +119,7 @@
         <!--Grid baris dengan 3 kolom-->
         <div class="row row-cols-3">
           <div class="col-lg-5 ms-2 mb-md-0">
-            <p class="h1 fw-bold">E-KANTIN UNJ</p>
+            <p class="h1 fw-bold">Absensi Mahasiswa Fakultas teknik</p>
           </div>
 
           <!--Kolom nama kantin-->
